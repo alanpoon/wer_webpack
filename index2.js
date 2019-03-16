@@ -1,0 +1,1 @@
+import('./dist2/native').catch(console.error);
